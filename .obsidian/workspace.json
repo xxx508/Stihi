@@ -11,10 +11,14 @@
             "id": "ea0ab8884ad7b41a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ReadMe"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ReadMe"
             }
           },
           {
@@ -225,11 +230,12 @@
   },
   "active": "ea0ab8884ad7b41a",
   "lastOpenFiles": [
+    "XN--80AHNAA5AGLKK8A.XN--P1AI.md",
+    "ReadMe.md",
     "Practice/I.md",
     "Practice/I.md",
     "Tutorial/22. Заключение.md",
     "Tutorial/01. Введение.md",
-    "ReadMe.md",
     "Tutorial/21. Творческие методики.md",
     "Tutorial/20. Русский  язык как венец стихотворения.md",
     "Tutorial/19. Игра в стихи. Когда одного оживления мало.md",
@@ -270,7 +276,6 @@
     "source/XVIII. ╨Ü╨░╨║ ╨╜╨╡ ╨╜╨░╨┤╨╛ ╨╛╨╢╨╕╨▓╨╗╤Å╤é╤î ╤ü╤é╨╕╤à╨╕",
     "source/XVII. ╨ù╨▓╤â╨║╨╛╨┐╨╕╤ü╤î. ╨É╨╗╨╗╨╕╤é╨╡╤Ç╨░╤å╨╕╤Å ╨╕ ╨░╤ü╤ü╨╛╨╜╨░╨╜╤ü",
     "source/XVI. ╨¥╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╨┤╤Ç╤â╨│╨╕╤à ╤ü╤é╨╕╨╗╨╕╤ü╤é╨╕╤ç╨╡╤ü╨║╨╕╤à ╤ä╨╕╨│╤â╤Ç",
-    "StihiSource/zoom.svg",
-    "Welcome.md"
+    "StihiSource/zoom.svg"
   ]
 }
