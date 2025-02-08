@@ -1,0 +1,160 @@
+{
+  "readData": {
+    "ReadMe.md": {
+      "fileId": "1734990046533",
+      "filePath": "ReadMe.md",
+      "duration": 396000,
+      "openCount": 6
+    },
+    "Practice/I.md": {
+      "fileId": "1735038770260",
+      "filePath": "Practice/I.md",
+      "duration": 48000,
+      "openCount": 6
+    },
+    "Untitled.canvas": {
+      "fileId": "1735042238260",
+      "filePath": "Untitled.canvas",
+      "duration": 42000,
+      "openCount": 7
+    },
+    "Tutorial/01. Введение.md": {
+      "fileId": "1735038434262",
+      "filePath": "Tutorial/01. Введение.md",
+      "duration": 582000,
+      "openCount": 21
+    },
+    "Tutorial/02. Поэт - кто он.md": {
+      "fileId": "1735038854261",
+      "filePath": "Tutorial/02. Поэт - кто он.md",
+      "duration": 696000,
+      "openCount": 22
+    },
+    "Tutorial/03. Образ поэта.md": {
+      "fileId": "1735040078263",
+      "filePath": "Tutorial/03. Образ поэта.md",
+      "duration": 246000,
+      "openCount": 17
+    },
+    "Tutorial/04. Структура стиха.md": {
+      "fileId": "1735040072751",
+      "filePath": "Tutorial/04. Структура стиха.md",
+      "duration": 414000,
+      "openCount": 16
+    },
+    "Tutorial/05. Стихотворный размер.md": {
+      "fileId": "1735043840224",
+      "filePath": "Tutorial/05. Стихотворный размер.md",
+      "duration": 936000,
+      "openCount": 22
+    },
+    "Tutorial/06. Формы стихотворений.md": {
+      "fileId": "1735044578260",
+      "filePath": "Tutorial/06. Формы стихотворений.md",
+      "duration": 1500000,
+      "openCount": 24
+    },
+    "Tutorial/07. О рифмах.md": {
+      "fileId": "1735044594639",
+      "filePath": "Tutorial/07. О рифмах.md",
+      "duration": 378000,
+      "openCount": 17
+    },
+    "Tutorial/09. Разнородные рифмы и стремление к идеалу.md": {
+      "fileId": "1735040522853",
+      "filePath": "Tutorial/09. Разнородные рифмы и стремление к идеалу.md",
+      "duration": 2292000,
+      "openCount": 19
+    },
+    "Tutorial/10. Рифмы с иностранными словами, с новыми словами.md": {
+      "fileId": "1735044602165",
+      "filePath": "Tutorial/10. Рифмы с иностранными словами, с новыми словами.md",
+      "duration": 150000,
+      "openCount": 6
+    },
+    "Tutorial/11. Составные рифмы как признак уникальности.md": {
+      "fileId": "1735044602260",
+      "filePath": "Tutorial/11. Составные рифмы как признак уникальности.md",
+      "duration": 186000,
+      "openCount": 6
+    },
+    "Tutorial/12. Подбор рифмы, подбор слов в стихотворении.md": {
+      "fileId": "1735044607332",
+      "filePath": "Tutorial/12. Подбор рифмы, подбор слов в стихотворении.md",
+      "duration": 246000,
+      "openCount": 5
+    },
+    "Tutorial/08. Еще о рифмах.md": {
+      "fileId": "1735044596261",
+      "filePath": "Tutorial/08. Еще о рифмах.md",
+      "duration": 198000,
+      "openCount": 9
+    },
+    "Tutorial/13. Как не надо рифмовать.md": {
+      "fileId": "1735044608260",
+      "filePath": "Tutorial/13. Как не надо рифмовать.md",
+      "duration": 510000,
+      "openCount": 12
+    },
+    "Tutorial/14. Анализ стихотворения.md": {
+      "fileId": "1735044612354",
+      "filePath": "Tutorial/14. Анализ стихотворения.md",
+      "duration": 132000,
+      "openCount": 5
+    },
+    "Tutorial/15. Оживление стихотворения.md": {
+      "fileId": "1735044617427",
+      "filePath": "Tutorial/15. Оживление стихотворения.md",
+      "duration": 186000,
+      "openCount": 3
+    },
+    "Tutorial/16. Несколько других стилистических фигур.md": {
+      "fileId": "1735044661306",
+      "filePath": "Tutorial/16. Несколько других стилистических фигур.md",
+      "duration": 96000,
+      "openCount": 2
+    },
+    "Tutorial/17. Звукопись. Аллитерация и ассонанс.md": {
+      "fileId": "1735044662263",
+      "filePath": "Tutorial/17. Звукопись. Аллитерация и ассонанс.md",
+      "duration": 96000,
+      "openCount": 3
+    },
+    "Tutorial/18. Как не надо оживлять стихи.md": {
+      "fileId": "1735044668263",
+      "filePath": "Tutorial/18. Как не надо оживлять стихи.md",
+      "duration": 90000,
+      "openCount": 3
+    },
+    "Tutorial/19. Игра в стихи. Когда одного оживления мало.md": {
+      "fileId": "1735044614261",
+      "filePath": "Tutorial/19. Игра в стихи. Когда одного оживления мало.md",
+      "duration": 204000,
+      "openCount": 5
+    },
+    "Tutorial/20. Русский  язык как венец стихотворения.md": {
+      "fileId": "1735044680263",
+      "filePath": "Tutorial/20. Русский  язык как венец стихотворения.md",
+      "duration": 186000,
+      "openCount": 3
+    },
+    "Tutorial/21. Творческие методики.md": {
+      "fileId": "1735044684090",
+      "filePath": "Tutorial/21. Творческие методики.md",
+      "duration": 60000,
+      "openCount": 2
+    },
+    "Tutorial/22. Заключение.md": {
+      "fileId": "1735044686260",
+      "filePath": "Tutorial/22. Заключение.md",
+      "duration": 72000,
+      "openCount": 4
+    },
+    "Tutorial/att/table_V.png": {
+      "fileId": "1735043810261",
+      "filePath": "Tutorial/att/table_V.png",
+      "duration": 30000,
+      "openCount": 4
+    }
+  }
+}

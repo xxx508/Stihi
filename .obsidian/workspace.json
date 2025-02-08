@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "61f8928586106f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea0ab8884ad7b41a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56ed06ce35a76dc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "16897062b31182e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a65497157a07824d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "baa22ffbb4298664",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c73749e3e0f39ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b758aa07683f813",
+    "type": "split",
+    "children": [
+      {
+        "id": "af6ec5b30a7a8b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29222186c2634e70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9802a2312b356b27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c13b46fd69b8f3d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c55ad2c5f0bfe6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f7a79e40cc1b6d00",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2693837bfd94a3b0",
+            "type": "leaf",
+            "state": {
+              "type": "CalendarView",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
+            }
+          },
+          {
+            "id": "5a860ebebf5170ce",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {},
+              "icon": "clock",
+              "title": "Pomodoro timer"
+            }
+          },
+          {
+            "id": "aa83918a42d6b600",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4922fb42c8d917d4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "focus-time:View total focus time data": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-importer:Open Importer": false,
+      "homepage:Open homepage": false,
+      "activity-heatmap:Open activity heatmap": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": true,
+      "terminal:Open terminal": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "ea0ab8884ad7b41a",
+  "lastOpenFiles": [
+    "Practice/I.md",
+    "Practice/I.md",
+    "Tutorial/22. Заключение.md",
+    "Tutorial/01. Введение.md",
+    "ReadMe.md",
+    "Tutorial/21. Творческие методики.md",
+    "Tutorial/20. Русский  язык как венец стихотворения.md",
+    "Tutorial/19. Игра в стихи. Когда одного оживления мало.md",
+    "Tutorial/18. Как не надо оживлять стихи.md",
+    "Tutorial/17. Звукопись. Аллитерация и ассонанс.md",
+    "Tutorial/16. Несколько других стилистических фигур.md",
+    "Tutorial/14. Анализ стихотворения.md",
+    "Tutorial/15. Оживление стихотворения.md",
+    "Tutorial/13. Как не надо рифмовать.md",
+    "Tutorial/09. Разнородные рифмы и стремление к идеалу.md",
+    "Tutorial/12. Подбор рифмы, подбор слов в стихотворении.md",
+    "Tutorial/11. Составные рифмы как признак уникальности.md",
+    "Tutorial/10. Рифмы с иностранными словами, с новыми словами.md",
+    "Tutorial/08. Еще о рифмах.md",
+    "Tutorial/07. О рифмах.md",
+    "Tutorial/06. Формы стихотворений.md",
+    "Tutorial/05. Стихотворный размер.md",
+    "Tutorial/04. Структура стиха.md",
+    "Tutorial/03. Образ поэта.md",
+    "Tutorial/02. Поэт - кто он.md",
+    "Tutorial/att/table_V.png",
+    "Tutorial/att",
+    "StihiSource/social-bg.webp",
+    "StihiSource/soc-vk.png",
+    "StihiSource/soc-ok.png",
+    "StihiSource/social-bg.jpg",
+    "StihiSource/soc-fb.png",
+    "StihiSource/5c9b39c406fb5.jpg",
+    "StihiSource/5c7f67410f87a.jpg",
+    "StihiSource/5c5aa657023f0.jpg",
+    "StihiSource/kak-nauchitsya-pisat-stihi.htm",
+    "Untitled.canvas",
+    "source/bat.ps1",
+    "source/XXII. ╨ù╨░╨║╨╗╤Ä╤ç╨╡╨╜╨╕╨╡",
+    "source/XXI. ╨ó╨▓╨╛╤Ç╤ç╨╡╤ü╨║╨╕╨╡ ╨╝╨╡╤é╨╛╨┤╨╕╨║╨╕",
+    "source/XX. ╨á╤â╤ü╤ü╨║╨╕╨╣  ╤Å╨╖╤ï╨║ ╨║╨░╨║ ╨▓╨╡╨╜╨╡╤å ╤ü╤é╨╕╤à╨╛╤é╨▓╨╛╤Ç╨╡╨╜╨╕╤Å",
+    "source/XIX. ╨ÿ╨│╤Ç╨░ ╨▓ ╤ü╤é╨╕╤à╨╕. ╨Ü╨╛╨│╨┤╨░ ╨╛╨┤╨╜╨╛╨│╨╛ ╨╛╨╢╨╕╨▓╨╗╨╡╨╜╨╕╤Å ╨╝╨░╨╗╨╛",
+    "source/XVIII. ╨Ü╨░╨║ ╨╜╨╡ ╨╜╨░╨┤╨╛ ╨╛╨╢╨╕╨▓╨╗╤Å╤é╤î ╤ü╤é╨╕╤à╨╕",
+    "source/XVII. ╨ù╨▓╤â╨║╨╛╨┐╨╕╤ü╤î. ╨É╨╗╨╗╨╕╤é╨╡╤Ç╨░╤å╨╕╤Å ╨╕ ╨░╤ü╤ü╨╛╨╜╨░╨╜╤ü",
+    "source/XVI. ╨¥╨╡╤ü╨║╨╛╨╗╤î╨║╨╛ ╨┤╤Ç╤â╨│╨╕╤à ╤ü╤é╨╕╨╗╨╕╤ü╤é╨╕╤ç╨╡╤ü╨║╨╕╤à ╤ä╨╕╨│╤â╤Ç",
+    "StihiSource/zoom.svg",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "dayCounts": {
+    "2024-12-24": 34238,
+    "2025-01-28": 70768,
+    "2025-02-08": 0
+  },
+  "todayWordCount": {
+    "ReadMe.md": {
+      "initial": 215,
+      "current": 215
+    },
+    "source/01. Введение.md": {
+      "initial": 2903,
+      "current": 2903
+    },
+    "source/22. Заключение.md": {
+      "initial": 876,
+      "current": 876
+    },
+    "Practice/I.md": {
+      "initial": 0,
+      "current": 0
+    },
+    "Practice/Untitled.md": {
+      "initial": 0,
+      "current": 0
+    }
+  },
+  "weeklyPlan": {},
+  "currentManuallyModifyWordCount": 0
+}
